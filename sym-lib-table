@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name bluepill)(type Legacy)(uri ${KIPRJMOD}/libraries/bluepill-symbols/bluepill.lib)(options "")(descr ""))
+  (lib (name Switch)(type Legacy)(uri ${KIPRJMOD}/libraries/switch-symbols/Switch.lib)(options "")(descr ""))
+)

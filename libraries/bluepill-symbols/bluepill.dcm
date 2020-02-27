@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BluePill
+D BluePill STM32 Development Board
+K Bluepill STM STM32 microcontroller module Arduino
+$ENDCMP
+#
+#End Doc Library
