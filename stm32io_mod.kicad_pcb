@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 4)
+    (drawings 5)
     (tracks 292)
     (zones 0)
     (modules 53)
@@ -3558,6 +3558,9 @@
     )
   )
 
+  (gr_text "MIT License\n\nCopyright (c) 2020 Matías S. Ávalos (msavalos@gmail.com)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n" (at 12.065 -26.416) (layer Dwgs.User)
+    (effects (font (size 2 2) (thickness 0.4)) (justify left))
+  )
   (gr_line (start 109.855 58.42) (end 180.34 58.42) (layer Edge.Cuts) (width 0.3) (tstamp 5E46D617))
   (gr_line (start 109.855 132.08) (end 109.855 58.42) (layer Edge.Cuts) (width 0.3))
   (gr_line (start 180.34 132.08) (end 109.855 132.08) (layer Edge.Cuts) (width 0.3) (tstamp 5E05CAA4))
