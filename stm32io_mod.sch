@@ -721,11 +721,11 @@ L power:GND #PWR0133
 U 1 1 5E056671
 P 4625 7150
 F 0 "#PWR0133" H 4625 6900 50  0001 C CNN
-F 1 "GND" H 4630 6977 50  0000 C CNN
+F 1 "GND" V 4625 6950 50  0000 C CNN
 F 2 "" H 4625 7150 50  0001 C CNN
 F 3 "" H 4625 7150 50  0001 C CNN
 	1    4625 7150
-	1    0    0    -1  
+	0    -1   -1   0   
 $EndComp
 Wire Notes Line width 12
 	4000 6625 5500 6625
@@ -2275,12 +2275,12 @@ F 3 "~" H 10800 6850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x03 J1
+L Connector_Generic:Conn_01x04 J1
 U 1 1 5E11F701
 P 4425 7050
 F 0 "J1" H 4425 7250 50  0000 C CNN
-F 1 "UART" H 4425 6850 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4425 7050 50  0001 C CNN
+F 1 "UART" H 4425 6750 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 4425 7050 50  0001 C CNN
 F 3 "~" H 4425 7050 50  0001 C CNN
 	1    4425 7050
 	-1   0    0    -1  
@@ -2654,4 +2654,15 @@ F 3 "" H 3850 1375 50  0001 C CNN
 $EndComp
 Text Notes 75   -50  0    106  ~ 0
 MIT License\n\nCopyright (c) 2020 Matías S. Ávalos (msavalos@gmail.com)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the "Software"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n
+$Comp
+L power:VCC #PWR0135
+U 1 1 5E67CE1D
+P 4625 7250
+F 0 "#PWR0135" H 4625 7100 50  0001 C CNN
+F 1 "VCC" V 4642 7378 50  0000 L CNN
+F 2 "" H 4625 7250 50  0001 C CNN
+F 3 "" H 4625 7250 50  0001 C CNN
+	1    4625 7250
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC
