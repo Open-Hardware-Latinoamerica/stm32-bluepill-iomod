@@ -13,35 +13,20 @@ Este PCB es un poryecto de Hardware Libre y Abierto, pensado para enseñar progr
 
 ## OUTPUTS
 
-### LEDs
-
-| PIN  | Conection     | Active |
-|------|---------------|--------|
-| PB9  | LED1 - Red    | LOW    |
-| PB8  | LED1 - Green  | LOW    |
-| PB7  | LED1 - Blue   | LOW    |
-| PB6  | LED2          | HIGH   |
-| PB5  | LED3          | HIGH   |
-| PB4  | LED4          | HIGH   |
-| PB3  | LED5          | HIGH   |
-| PC13 | Build-in LED  | LOW    |
-
-### 4 digits 7 segments display
-
-| PIN  | Conection     | Active |
-|------|---------------|--------|
-| PA0  |  Seg E        |  HIGH  |
-| PA1  |  Seg D    	   |  HIGH  |
-| PA2  |  Seg P        |  HIGH  |
-| PA3  |  Seg C 	   |  HIGH  |
-| PA4  |  Seg G        |  HIGH  |
-| PA5  |  Seg B        |  HIGH  |
-| PA6  |  Seg F        |  HIGH  |
-| PA7  |  Seg A        |  HIGH  |
-| PB0  |  Disp 1 (MSD) |  LOW   |
-| PB1  |  Disp 2       |  LOW   |
-| PB10 |  Disp 3 	   |  LOW   |
-| PB11 |  Disp 4 (LSD) |  LOW   |
+| PIN  | Conection     | Active | | PIN  | Conection     | Active |
+|------|---------------|--------|-|------|---------------|--------|
+| PB9  | LED1 - Red    | LOW    | | PA0  |  Seg E        |  HIGH  |
+| PB8  | LED1 - Green  | LOW    | | PA1  |  Seg D        |  HIGH  |
+| PB7  | LED1 - Blue   | LOW    | | PA2  |  Seg P        |  HIGH  | 
+| PB6  | LED2          | LOW    | | PA3  |  Seg C        |  HIGH  |
+| PB5  | LED3          | LOW    | | PA4  |  Seg G        |  HIGH  |
+| PB4  | LED4          | LOW    | | PA5  |  Seg B        |  HIGH  |
+| PB3  | LED5          | LOW    | | PA6  |  Seg F        |  HIGH  |
+| PC13 | Build-in LED  | LOW    | | PA7  |  Seg A        |  HIGH  |
+|  -   |      -        |   -    | | PB0  |  Disp 1 (MSD) |  LOW   |
+|  -   |      -        |   -    | | PB1  |  Disp 2       |  LOW   |
+|  -   |      -        |   -    | | PB10 |  Disp 3       |  LOW   |
+|  -   |      -        |   -    | | PB11 |  Disp 4 (LSD) |  LOW   |
 
 ## INPUTS
 
