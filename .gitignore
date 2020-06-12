@@ -1,5 +1,5 @@
 gerbers/
-images/
+*/*.svg
 print/
 fp-info-cache
 stm32io_mod.sch-bak
