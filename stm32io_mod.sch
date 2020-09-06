@@ -412,11 +412,11 @@ rotB
 Wire Wire Line
 	4075 5500 4000 5500
 Connection ~ 4075 5500
-Text GLabel 4400 2425 2    50   Input ~ 0
+Text GLabel 4400 2325 2    50   Input ~ 0
 rotA
-Text GLabel 4400 2525 2    50   Input ~ 0
+Text GLabel 4400 2425 2    50   Input ~ 0
 rotB
-Text GLabel 4400 2625 2    50   Input ~ 0
+Text GLabel 4400 2525 2    50   Input ~ 0
 swr
 Text GLabel 4400 3025 2    50   Input ~ 0
 sw1
@@ -571,7 +571,7 @@ Text GLabel 4400 2025 2    50   Input ~ 0
 led1
 Text GLabel 4400 2225 2    50   Input ~ 0
 led3
-Text GLabel 4400 2325 2    50   Input ~ 0
+Text GLabel 4400 2625 2    50   Input ~ 0
 led4
 Text GLabel 4400 2125 2    50   Input ~ 0
 led2
