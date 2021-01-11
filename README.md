@@ -46,6 +46,10 @@ Este PCB es un poryecto de Hardware Libre y Abierto, pensado para enseñar progr
 
 ## Reference
 
-Puede encontrar esta imagen en pdf en la carpeta `images`
-
 ![Pinout reference](images/stm32iomod_reference.png)
+
+## Images
+
+| ![top layout](images/layout-top.png) | ![bottom layout](images/layout-bottom.png)|
+|-|-|
+|<p style="text-align:center;">top layout</p>|<p style="text-align:center;">bottom layout</p>|
