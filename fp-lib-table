@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name e2prod)(type KiCad)(uri ${KIPRJMOD}/libraries/e2prod.pretty)(options "")(descr ""))
+  (lib (name electronlinux)(type KiCad)(uri ${KIPRJMOD}/libraries/electronlinux.pretty)(options "")(descr ""))
 )
