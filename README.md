@@ -25,8 +25,8 @@ Este PCB es un poryecto de Hardware Libre y Abierto, pensado para enseñar progr
 | PB6  | LED2          | LOW    | | PA3  |  Seg C        |  HIGH  |
 | PB5  | LED3          | LOW    | | PA4  |  Seg G        |  HIGH  |
 | PB4  | LED4          | LOW    | | PA5  |  Seg B        |  HIGH  |
-| PA11 | LED5          | LOW    | | PA6  |  Seg F        |  HIGH  |
-| PC13 | Build-in LED  | LOW    | | PA7  |  Seg A        |  HIGH  |
+| PC13 | Build-in LED  | LOW    | | PA6  |  Seg F        |  HIGH  |
+|  -   |      -        |   -    | | PA7  |  Seg A        |  HIGH  |
 |  -   |      -        |   -    | | PB0  |  Disp 1 (MSD) |  LOW   |
 |  -   |      -        |   -    | | PB1  |  Disp 2       |  LOW   |
 |  -   |      -        |   -    | | PB10 |  Disp 3       |  LOW   |
@@ -36,9 +36,9 @@ Este PCB es un poryecto de Hardware Libre y Abierto, pensado para enseñar progr
 
 | PIN  | Conection     | Active |
 |------|---------------|--------|
-| PB13 | Rotary - A    | LOW    |
-| PA15 | Rotary - B    | LOW    |
-| PA12 | Rotary Switch | LOW    |
+| PA15 | Rotary - A    | LOW    |
+| PB13 | Rotary - B    | LOW    |
+| PA8  | Rotary Switch | LOW    |
 | PB15 | Button 1      | LOW    |
 | PB14 | Button 2      | LOW    |
 | PA13 | Button 3      | LOW    |
