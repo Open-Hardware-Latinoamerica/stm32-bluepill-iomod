@@ -37,12 +37,12 @@ Este PCB es un poryecto de Hardware Libre y Abierto, pensado para enseñar progr
 | PIN  | Conection     | Active |
 |------|---------------|--------|
 | PA15 | Rotary - A    | LOW    |
-| PB13 | Rotary - B    | LOW    |
+| PB3  | Rotary - B    | LOW    |
 | PA8  | Rotary Switch | LOW    |
 | PB15 | Button 1      | LOW    |
 | PB14 | Button 2      | LOW    |
-| PA13 | Button 3      | LOW    |
-| PA12 | Button 4      | LOW    |
+| PB13 | Button 3      | LOW    |
+| PB12 | Button 4      | LOW    |
 
 ## Reference
 
