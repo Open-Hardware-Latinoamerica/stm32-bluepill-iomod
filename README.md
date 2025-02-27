@@ -4,7 +4,7 @@
 
 This Open Source Hardware PCB proyect is a tool for teach µController (microcontroller) programming. Feel free to use, modifie or improobe it in any way you want. The schematics and the layout was designed on [KiCad EDA Software](https://kicad.org/).
 
-More information (Spanish only): [BluePill STM32 Digital I/O Board v3.0](https://electronlinux.wordpress.com/2021/08/18/blue-pill-stm32-digital-i-o-board-v3-0/)
+More information (Spanish only): [BluePill STM32 Digital I/O Board v3.0](https://blog.tute-avalos.com/2021/08/18/blue-pill-stm32-digital-i-o-board-v3-0/)
 
 - - -
 
