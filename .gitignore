@@ -4,4 +4,6 @@ print/
 fp-info-cache
 stm32io_mod.sch-bak
 stm32io_mod.kicad_pcb-bak
+stm32io_mod-backups
+stm32io_mod-rescue*
 
