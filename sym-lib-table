@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name bluepill)(type Legacy)(uri ${KIPRJMOD}/libraries/bluepill-symbols/bluepill.lib)(options "")(descr ""))
-  (lib (name Switch)(type Legacy)(uri ${KIPRJMOD}/libraries/switch-symbols/Switch.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "bluepill")(type "Legacy")(uri "${KIPRJMOD}/libraries/bluepill-symbols/bluepill.lib")(options "")(descr ""))
+  (lib (name "Switch")(type "Legacy")(uri "${KIPRJMOD}/libraries/switch-symbols/Switch.lib")(options "")(descr ""))
+  (lib (name "stm32io_mod-rescue")(type "KiCad")(uri "${KIPRJMOD}/stm32io_mod-rescue.kicad_sym")(options "")(descr ""))
 )
